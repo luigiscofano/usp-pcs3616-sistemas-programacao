@@ -6,7 +6,7 @@
 
 [![Verificação](https://github.com/luigiscofano/usp-pcs3616-sistemas-programacao/actions/workflows/verificacao.yml/badge.svg?branch=main)](https://github.com/luigiscofano/usp-pcs3616-sistemas-programacao/actions/workflows/verificacao.yml)
 
-Portfólio de **Luigi Scofano de Araujo · Engenharia de Computação, Poli-USP · USP 13680334**. Organização e complementos de 2026 com assistência de IA, distinguindo acervo recuperado e implementações novas. [Procedência](docs/PROCEDENCIA.md).
+Portfólio de **Luigi Scofano de Araujo · Engenharia de Computação, Poli-USP · USP 13680334**. Organização e complementos de 2026, distinguindo acervo recuperado e implementações novas. [Procedência](docs/PROCEDENCIA.md).
 
 ## Objetivos pedagógicos em destaque
 
