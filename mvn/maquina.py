@@ -32,7 +32,9 @@ def montar(arquivos):
     pc = 0
     ocupados = set()
     for arquivo in arquivos:
-        for numero, linha in enumerate(Path(arquivo).read_text().splitlines(), 1):
+        for numero, linha in enumerate(
+            Path(arquivo).read_text(encoding="utf-8").splitlines(), 1
+        ):
             partes = linha.split(";", 1)[0].split()
             if not partes:
                 continue
