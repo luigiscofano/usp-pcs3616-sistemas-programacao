@@ -1,5 +1,13 @@
 # Documentação
 
+[Início](../README.md) · [Como executar](../README.md#como-executar) · [Aprendizagem](../README.md#o-que-desenvolvi-e-aprendi) · [Estado atual](../README.md#estado-atual)
+
+> **Nesta área:** guias de arquitetura, reprodução, decisões e evidências; os exemplos executáveis e o estado consolidado estão na raiz.
+
+[Início](../README.md) · [Como executar](../README.md#como-executar) · [Aprendizagem](../README.md#o-que-desenvolvi-e-aprendi) · [Estado atual](../README.md#estado-atual)
+
+> **Nesta área:** guias de arquitetura, reprodução, decisões e evidências; os exemplos executáveis e o estado consolidado estão na raiz.
+
 | Documento | Pergunta |
 | --- | --- |
 | [Procedência](PROCEDENCIA.md) | O que veio do acervo e o que é novo? |
@@ -14,3 +22,11 @@
 | [Publicação](PUBLICACAO.md) | Quais PRs compõem a edição? |
 
 [Inventário da recuperação](INVENTARIO.md) · [Experimentos](EXPERIMENTOS.md) · [Decisões](DECISOES.md)
+
+---
+
+**Projeto:** [PCS3616 · Assembly MVN, pilha e calculadora RPN](../README.md). Consulte a raiz para os requisitos e o primeiro comando; este guia aprofunda a área `docs/`.
+
+---
+
+**Projeto:** [PCS3616 · Assembly MVN, pilha e calculadora RPN](../README.md). Consulte a raiz para os requisitos e o primeiro comando; este guia aprofunda a área `docs/`.
