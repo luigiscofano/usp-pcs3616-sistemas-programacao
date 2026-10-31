@@ -9,6 +9,8 @@
 | [Validação](VALIDACAO.md) | O que foi efetivamente testado? |
 | [Apresentação](APRESENTACAO.md) | Como demonstrar o projeto? |
 | [Referências](REFERENCIAS.md) | Quais fontes orientam o material? |
+| [Guias por assunto](topicos/README.md) | Por onde estudar cada tema? |
+| [Branches](BRANCHES.md) | Que entrega cada branch organiza? |
 | [Publicação](PUBLICACAO.md) | Quais PRs compõem a edição? |
 
 [Inventário da recuperação](INVENTARIO.md) · [Experimentos](EXPERIMENTOS.md) · [Decisões](DECISOES.md)

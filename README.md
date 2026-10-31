@@ -31,6 +31,8 @@ Ambiente: **Assembly MVN e Python 3.12**. [Instalação detalhada](docs/INSTALAC
 
 ## Encontre cada parte
 
+**[Guias por assunto](docs/topicos/README.md) · [Mapa de branches](docs/BRANCHES.md) · [PRs e entregas](docs/PUBLICACAO.md)**
+
 | Diretório | Conteúdo |
 | --- | --- |
 | [asm/](asm/README.md) | Leitor de bytes, pilha, RPN e harness novo. |

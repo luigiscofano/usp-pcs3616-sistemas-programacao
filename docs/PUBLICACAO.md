@@ -2,7 +2,7 @@
 
 Repositório: https://github.com/luigiscofano/usp-pcs3616-sistemas-programacao
 
-Organização atual de 31/10/2026, sem datas retroativas ou revisões fictícias.
+Edição organizada em 31/10/2026. As branches registram entregas atuais e permanecem acessíveis após integração.
 
 | PR | Branch | Entrega |
 | --- | --- | --- |
@@ -10,5 +10,11 @@ Organização atual de 31/10/2026, sem datas retroativas ou revisões fictícias
 | [#2](https://github.com/luigiscofano/usp-pcs3616-sistemas-programacao/pull/2) | `feat/aplicacoes-e-acervo` | Adicionar calculadora RPN em Assembly e harness |
 | [#3](https://github.com/luigiscofano/usp-pcs3616-sistemas-programacao/pull/3) | `test/verificacao-automatica` | Adicionar testes executaveis e GitHub Actions |
 | [#4](https://github.com/luigiscofano/usp-pcs3616-sistemas-programacao/pull/4) | `docs/objetivos-e-arquitetura` | Documentar objetivos pedagogicos, arquitetura e procedencia |
+| [#5](https://github.com/luigiscofano/usp-pcs3616-sistemas-programacao/pull/5) | `docs/evidencia-da-ci` | Registrar validacao remota e artefatos reproduziveis |
+| [#6](https://github.com/luigiscofano/usp-pcs3616-sistemas-programacao/pull/6) | `docs/leitor-de-bytes` | Guia de SUB_LE_BYTE e representação de palavras |
+| [#7](https://github.com/luigiscofano/usp-pcs3616-sistemas-programacao/pull/7) | `docs/pilha-e-memoria` | Guia da pilha limitada e do mapa de memória |
+| [#8](https://github.com/luigiscofano/usp-pcs3616-sistemas-programacao/pull/8) | `docs/rpn-e-rastreamento` | Guia da calculadora RPN e de seus traces |
 
-Esta entrega acrescenta evidência remota confirmada: [execução aprovada](https://github.com/luigiscofano/usp-pcs3616-sistemas-programacao/actions/runs/41227782882). O registro estruturado está em [validacao-remota.json](validacao-remota.json).
+[Mapa de branches](BRANCHES.md) · [Guias por assunto](topicos/README.md) · [Todos os PRs](https://github.com/luigiscofano/usp-pcs3616-sistemas-programacao/pulls?q=is%3Apr)
+
+A integração de cada PR pode ser conferida no GitHub. A evidência funcional e o commit correspondente estão em [VALIDACAO.md](VALIDACAO.md).
