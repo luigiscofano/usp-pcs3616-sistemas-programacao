@@ -13,6 +13,7 @@ Edição organizada em 31/10/2026. As branches registram entregas atuais e perma
 | [#5](https://github.com/luigiscofano/usp-pcs3616-sistemas-programacao/pull/5) | `docs/evidencia-da-ci` | Registrar validacao remota e artefatos reproduziveis |
 | [#6](https://github.com/luigiscofano/usp-pcs3616-sistemas-programacao/pull/6) | `docs/leitor-de-bytes` | Guia de SUB_LE_BYTE e representação de palavras |
 | [#7](https://github.com/luigiscofano/usp-pcs3616-sistemas-programacao/pull/7) | `docs/pilha-e-memoria` | Guia da pilha limitada e do mapa de memória |
+| [#8](https://github.com/luigiscofano/usp-pcs3616-sistemas-programacao/pull/8) | `docs/rpn-e-rastreamento` | Guia da calculadora RPN e de seus traces |
 
 [Mapa de branches](BRANCHES.md) · [Guias por assunto](topicos/README.md) · [Todos os PRs](https://github.com/luigiscofano/usp-pcs3616-sistemas-programacao/pulls?q=is%3Apr)
 
