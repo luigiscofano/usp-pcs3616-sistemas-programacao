@@ -52,3 +52,5 @@ Executor e montador próprios; sem certificação no simulador oficial; apenas d
 Use o [roteiro de apresentação](docs/APRESENTACAO.md) e confira os [PRs reais](docs/PUBLICACAO.md). As branches representam organização atual, sem datas retroativas ou revisões fictícias.
 
 [Contribuir](CONTRIBUTING.md) · [Direitos e créditos](DIREITOS_E_CREDITOS.md) · [Referências](docs/REFERENCIAS.md) · [Mudanças](CHANGELOG.md)
+
+**CI confirmada:** [testes aprovados](https://github.com/luigiscofano/usp-pcs3616-sistemas-programacao/actions/runs/41227782882). Consulte o registro de [validação remota](docs/validacao-remota.json).

@@ -1,0 +1,38 @@
+{
+  "data_usuario": "2026-10-31",
+  "run_id": 41227782882,
+  "run_url": "https://github.com/luigiscofano/usp-pcs3616-sistemas-programacao/actions/runs/41227782882",
+  "commit": "5714b03563da0413904f375f5c9163f3b0ece820",
+  "conclusao": "success",
+  "jobs": [
+    {
+      "nome": "testes (macos-15)",
+      "conclusao": "success"
+    },
+    {
+      "nome": "testes (windows-latest)",
+      "conclusao": "success"
+    },
+    {
+      "nome": "testes (ubuntu-24.04)",
+      "conclusao": "success"
+    }
+  ],
+  "artefatos": [
+    {
+      "nome": "evidencia-macos-15",
+      "url": "https://github.com/luigiscofano/usp-pcs3616-sistemas-programacao/actions/runs/41227782882/artifacts/13053025204",
+      "expira_em": "2027-01-29T18:06:47Z"
+    },
+    {
+      "nome": "evidencia-windows-latest",
+      "url": "https://github.com/luigiscofano/usp-pcs3616-sistemas-programacao/actions/runs/41227782882/artifacts/13052641376",
+      "expira_em": "2027-01-29T18:06:47Z"
+    },
+    {
+      "nome": "evidencia-ubuntu-24.04",
+      "url": "https://github.com/luigiscofano/usp-pcs3616-sistemas-programacao/actions/runs/41227782882/artifacts/13052506712",
+      "expira_em": "2027-01-29T18:06:47Z"
+    }
+  ]
+}
