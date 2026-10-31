@@ -1,0 +1,30 @@
+name: Verificacao
+on:
+  push:
+    branches: [main]
+    paths: ["src/**", "rtl/**", "asm/**", "mvn/**", "tupi/**", "tests/**", "scripts/**", "notebooks/**", "data/**", "requirements.txt", ".github/workflows/**"]
+  pull_request:
+    paths: ["src/**", "rtl/**", "asm/**", "mvn/**", "tupi/**", "tests/**", "scripts/**", "notebooks/**", "data/**", "requirements.txt", ".github/workflows/**"]
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  testes:
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [ubuntu-24.04, macos-15, windows-latest]
+    runs-on: ${{ matrix.os }}
+    steps:
+      - uses: actions/checkout@v7.0.1
+      - uses: actions/setup-python@v7.1.0
+        with:
+          python-version: "3.12"
+      - run: python -m unittest discover -s tests -v
+      - run: python scripts/executar.py "12 3 +" --trace
+      - uses: actions/upload-artifact@v7.0.2
+        if: always()
+        with:
+          name: evidencia-${{ matrix.os }}
+          path: build/
+          retention-days: 90

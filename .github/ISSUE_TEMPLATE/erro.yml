@@ -1,0 +1,10 @@
+name: Relatar erro
+description: Falha reproduzível
+title: "[erro] "
+body:
+  - type: textarea
+    id: reproduzir
+    attributes:
+      label: Comando, entrada e resultado
+    validations:
+      required: true
