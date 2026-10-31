@@ -1,0 +1,1922 @@
+[
+  {
+    "pc": "0000",
+    "instrucao": "A900",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "0902",
+    "instrucao": "0926",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "0926",
+    "instrucao": "8E0A",
+    "acumulador": "0FFE"
+  },
+  {
+    "pc": "0928",
+    "instrucao": "9FFE",
+    "acumulador": "0FFE"
+  },
+  {
+    "pc": "092A",
+    "instrucao": "8E00",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "092C",
+    "instrucao": "9908",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "092E",
+    "instrucao": "990C",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "0930",
+    "instrucao": "9910",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "0932",
+    "instrucao": "9904",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "0934",
+    "instrucao": "A300",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "0302",
+    "instrucao": "0312",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "0312",
+    "instrucao": "830A",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "0314",
+    "instrucao": "1328",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "0328",
+    "instrucao": "D300",
+    "acumulador": "3132"
+  },
+  {
+    "pc": "032A",
+    "instrucao": "9308",
+    "acumulador": "3132"
+  },
+  {
+    "pc": "032C",
+    "instrucao": "2332",
+    "acumulador": "3132"
+  },
+  {
+    "pc": "032E",
+    "instrucao": "730C",
+    "acumulador": "0031"
+  },
+  {
+    "pc": "0330",
+    "instrucao": "0338",
+    "acumulador": "0031"
+  },
+  {
+    "pc": "0338",
+    "instrucao": "9344",
+    "acumulador": "0031"
+  },
+  {
+    "pc": "033A",
+    "instrucao": "9304",
+    "acumulador": "0031"
+  },
+  {
+    "pc": "033C",
+    "instrucao": "830E",
+    "acumulador": "0001"
+  },
+  {
+    "pc": "033E",
+    "instrucao": "930A",
+    "acumulador": "0001"
+  },
+  {
+    "pc": "0340",
+    "instrucao": "B300",
+    "acumulador": "0001"
+  },
+  {
+    "pc": "0936",
+    "instrucao": "8304",
+    "acumulador": "0031"
+  },
+  {
+    "pc": "0938",
+    "instrucao": "990A",
+    "acumulador": "0031"
+  },
+  {
+    "pc": "093A",
+    "instrucao": "19D8",
+    "acumulador": "0031"
+  },
+  {
+    "pc": "093C",
+    "instrucao": "5E06",
+    "acumulador": "0027"
+  },
+  {
+    "pc": "093E",
+    "instrucao": "19D8",
+    "acumulador": "0027"
+  },
+  {
+    "pc": "0940",
+    "instrucao": "890A",
+    "acumulador": "0031"
+  },
+  {
+    "pc": "0942",
+    "instrucao": "5918",
+    "acumulador": "0011"
+  },
+  {
+    "pc": "0944",
+    "instrucao": "1972",
+    "acumulador": "0011"
+  },
+  {
+    "pc": "0946",
+    "instrucao": "890A",
+    "acumulador": "0031"
+  },
+  {
+    "pc": "0948",
+    "instrucao": "591A",
+    "acumulador": "0028"
+  },
+  {
+    "pc": "094A",
+    "instrucao": "1972",
+    "acumulador": "0028"
+  },
+  {
+    "pc": "094C",
+    "instrucao": "890A",
+    "acumulador": "0031"
+  },
+  {
+    "pc": "094E",
+    "instrucao": "591C",
+    "acumulador": "0024"
+  },
+  {
+    "pc": "0950",
+    "instrucao": "1972",
+    "acumulador": "0024"
+  },
+  {
+    "pc": "0952",
+    "instrucao": "890A",
+    "acumulador": "0031"
+  },
+  {
+    "pc": "0954",
+    "instrucao": "5916",
+    "acumulador": "0001"
+  },
+  {
+    "pc": "0956",
+    "instrucao": "297A",
+    "acumulador": "0001"
+  },
+  {
+    "pc": "0958",
+    "instrucao": "5E06",
+    "acumulador": "FFF7"
+  },
+  {
+    "pc": "095A",
+    "instrucao": "295E",
+    "acumulador": "FFF7"
+  },
+  {
+    "pc": "095E",
+    "instrucao": "890A",
+    "acumulador": "0031"
+  },
+  {
+    "pc": "0960",
+    "instrucao": "5916",
+    "acumulador": "0001"
+  },
+  {
+    "pc": "0962",
+    "instrucao": "990E",
+    "acumulador": "0001"
+  },
+  {
+    "pc": "0964",
+    "instrucao": "890C",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "0966",
+    "instrucao": "6E06",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "0968",
+    "instrucao": "490E",
+    "acumulador": "0001"
+  },
+  {
+    "pc": "096A",
+    "instrucao": "990C",
+    "acumulador": "0001"
+  },
+  {
+    "pc": "096C",
+    "instrucao": "8E02",
+    "acumulador": "0001"
+  },
+  {
+    "pc": "096E",
+    "instrucao": "9910",
+    "acumulador": "0001"
+  },
+  {
+    "pc": "0970",
+    "instrucao": "0934",
+    "acumulador": "0001"
+  },
+  {
+    "pc": "0934",
+    "instrucao": "A300",
+    "acumulador": "0001"
+  },
+  {
+    "pc": "0302",
+    "instrucao": "0312",
+    "acumulador": "0001"
+  },
+  {
+    "pc": "0312",
+    "instrucao": "830A",
+    "acumulador": "0001"
+  },
+  {
+    "pc": "0314",
+    "instrucao": "1328",
+    "acumulador": "0001"
+  },
+  {
+    "pc": "0316",
+    "instrucao": "8344",
+    "acumulador": "0031"
+  },
+  {
+    "pc": "0318",
+    "instrucao": "630C",
+    "acumulador": "3100"
+  },
+  {
+    "pc": "031A",
+    "instrucao": "9342",
+    "acumulador": "3100"
+  },
+  {
+    "pc": "031C",
+    "instrucao": "8308",
+    "acumulador": "3132"
+  },
+  {
+    "pc": "031E",
+    "instrucao": "5342",
+    "acumulador": "0032"
+  },
+  {
+    "pc": "0320",
+    "instrucao": "9304",
+    "acumulador": "0032"
+  },
+  {
+    "pc": "0322",
+    "instrucao": "8310",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "0324",
+    "instrucao": "930A",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "0326",
+    "instrucao": "B300",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "0936",
+    "instrucao": "8304",
+    "acumulador": "0032"
+  },
+  {
+    "pc": "0938",
+    "instrucao": "990A",
+    "acumulador": "0032"
+  },
+  {
+    "pc": "093A",
+    "instrucao": "19D8",
+    "acumulador": "0032"
+  },
+  {
+    "pc": "093C",
+    "instrucao": "5E06",
+    "acumulador": "0028"
+  },
+  {
+    "pc": "093E",
+    "instrucao": "19D8",
+    "acumulador": "0028"
+  },
+  {
+    "pc": "0940",
+    "instrucao": "890A",
+    "acumulador": "0032"
+  },
+  {
+    "pc": "0942",
+    "instrucao": "5918",
+    "acumulador": "0012"
+  },
+  {
+    "pc": "0944",
+    "instrucao": "1972",
+    "acumulador": "0012"
+  },
+  {
+    "pc": "0946",
+    "instrucao": "890A",
+    "acumulador": "0032"
+  },
+  {
+    "pc": "0948",
+    "instrucao": "591A",
+    "acumulador": "0029"
+  },
+  {
+    "pc": "094A",
+    "instrucao": "1972",
+    "acumulador": "0029"
+  },
+  {
+    "pc": "094C",
+    "instrucao": "890A",
+    "acumulador": "0032"
+  },
+  {
+    "pc": "094E",
+    "instrucao": "591C",
+    "acumulador": "0025"
+  },
+  {
+    "pc": "0950",
+    "instrucao": "1972",
+    "acumulador": "0025"
+  },
+  {
+    "pc": "0952",
+    "instrucao": "890A",
+    "acumulador": "0032"
+  },
+  {
+    "pc": "0954",
+    "instrucao": "5916",
+    "acumulador": "0002"
+  },
+  {
+    "pc": "0956",
+    "instrucao": "297A",
+    "acumulador": "0002"
+  },
+  {
+    "pc": "0958",
+    "instrucao": "5E06",
+    "acumulador": "FFF8"
+  },
+  {
+    "pc": "095A",
+    "instrucao": "295E",
+    "acumulador": "FFF8"
+  },
+  {
+    "pc": "095E",
+    "instrucao": "890A",
+    "acumulador": "0032"
+  },
+  {
+    "pc": "0960",
+    "instrucao": "5916",
+    "acumulador": "0002"
+  },
+  {
+    "pc": "0962",
+    "instrucao": "990E",
+    "acumulador": "0002"
+  },
+  {
+    "pc": "0964",
+    "instrucao": "890C",
+    "acumulador": "0001"
+  },
+  {
+    "pc": "0966",
+    "instrucao": "6E06",
+    "acumulador": "000A"
+  },
+  {
+    "pc": "0968",
+    "instrucao": "490E",
+    "acumulador": "000C"
+  },
+  {
+    "pc": "096A",
+    "instrucao": "990C",
+    "acumulador": "000C"
+  },
+  {
+    "pc": "096C",
+    "instrucao": "8E02",
+    "acumulador": "0001"
+  },
+  {
+    "pc": "096E",
+    "instrucao": "9910",
+    "acumulador": "0001"
+  },
+  {
+    "pc": "0970",
+    "instrucao": "0934",
+    "acumulador": "0001"
+  },
+  {
+    "pc": "0934",
+    "instrucao": "A300",
+    "acumulador": "0001"
+  },
+  {
+    "pc": "0302",
+    "instrucao": "0312",
+    "acumulador": "0001"
+  },
+  {
+    "pc": "0312",
+    "instrucao": "830A",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "0314",
+    "instrucao": "1328",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "0328",
+    "instrucao": "D300",
+    "acumulador": "2033"
+  },
+  {
+    "pc": "032A",
+    "instrucao": "9308",
+    "acumulador": "2033"
+  },
+  {
+    "pc": "032C",
+    "instrucao": "2332",
+    "acumulador": "2033"
+  },
+  {
+    "pc": "032E",
+    "instrucao": "730C",
+    "acumulador": "0020"
+  },
+  {
+    "pc": "0330",
+    "instrucao": "0338",
+    "acumulador": "0020"
+  },
+  {
+    "pc": "0338",
+    "instrucao": "9344",
+    "acumulador": "0020"
+  },
+  {
+    "pc": "033A",
+    "instrucao": "9304",
+    "acumulador": "0020"
+  },
+  {
+    "pc": "033C",
+    "instrucao": "830E",
+    "acumulador": "0001"
+  },
+  {
+    "pc": "033E",
+    "instrucao": "930A",
+    "acumulador": "0001"
+  },
+  {
+    "pc": "0340",
+    "instrucao": "B300",
+    "acumulador": "0001"
+  },
+  {
+    "pc": "0936",
+    "instrucao": "8304",
+    "acumulador": "0020"
+  },
+  {
+    "pc": "0938",
+    "instrucao": "990A",
+    "acumulador": "0020"
+  },
+  {
+    "pc": "093A",
+    "instrucao": "19D8",
+    "acumulador": "0020"
+  },
+  {
+    "pc": "093C",
+    "instrucao": "5E06",
+    "acumulador": "0016"
+  },
+  {
+    "pc": "093E",
+    "instrucao": "19D8",
+    "acumulador": "0016"
+  },
+  {
+    "pc": "0940",
+    "instrucao": "890A",
+    "acumulador": "0020"
+  },
+  {
+    "pc": "0942",
+    "instrucao": "5918",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "0944",
+    "instrucao": "1972",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "0972",
+    "instrucao": "A9FC",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "09FE",
+    "instrucao": "8910",
+    "acumulador": "0001"
+  },
+  {
+    "pc": "0A00",
+    "instrucao": "1A16",
+    "acumulador": "0001"
+  },
+  {
+    "pc": "0A02",
+    "instrucao": "890C",
+    "acumulador": "000C"
+  },
+  {
+    "pc": "0A04",
+    "instrucao": "9504",
+    "acumulador": "000C"
+  },
+  {
+    "pc": "0A06",
+    "instrucao": "A500",
+    "acumulador": "000C"
+  },
+  {
+    "pc": "0502",
+    "instrucao": "050A",
+    "acumulador": "000C"
+  },
+  {
+    "pc": "050A",
+    "instrucao": "8FFE",
+    "acumulador": "0FFE"
+  },
+  {
+    "pc": "050C",
+    "instrucao": "5E08",
+    "acumulador": "00FE"
+  },
+  {
+    "pc": "050E",
+    "instrucao": "1506",
+    "acumulador": "00FE"
+  },
+  {
+    "pc": "0510",
+    "instrucao": "8E00",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "0512",
+    "instrucao": "9508",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "0514",
+    "instrucao": "8FFE",
+    "acumulador": "0FFE"
+  },
+  {
+    "pc": "0516",
+    "instrucao": "5E04",
+    "acumulador": "0FFC"
+  },
+  {
+    "pc": "0518",
+    "instrucao": "9FFE",
+    "acumulador": "0FFC"
+  },
+  {
+    "pc": "051A",
+    "instrucao": "4E0C",
+    "acumulador": "9FFC"
+  },
+  {
+    "pc": "051C",
+    "instrucao": "9520",
+    "acumulador": "9FFC"
+  },
+  {
+    "pc": "051E",
+    "instrucao": "8504",
+    "acumulador": "000C"
+  },
+  {
+    "pc": "0520",
+    "instrucao": "9FFC",
+    "acumulador": "000C"
+  },
+  {
+    "pc": "0522",
+    "instrucao": "B500",
+    "acumulador": "000C"
+  },
+  {
+    "pc": "0A08",
+    "instrucao": "8508",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "0A0A",
+    "instrucao": "1A10",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "0A10",
+    "instrucao": "8E00",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "0A12",
+    "instrucao": "990C",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "0A14",
+    "instrucao": "9910",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "0A16",
+    "instrucao": "B9FC",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "0974",
+    "instrucao": "8908",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "0976",
+    "instrucao": "1934",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "0934",
+    "instrucao": "A300",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "0302",
+    "instrucao": "0312",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "0312",
+    "instrucao": "830A",
+    "acumulador": "0001"
+  },
+  {
+    "pc": "0314",
+    "instrucao": "1328",
+    "acumulador": "0001"
+  },
+  {
+    "pc": "0316",
+    "instrucao": "8344",
+    "acumulador": "0020"
+  },
+  {
+    "pc": "0318",
+    "instrucao": "630C",
+    "acumulador": "2000"
+  },
+  {
+    "pc": "031A",
+    "instrucao": "9342",
+    "acumulador": "2000"
+  },
+  {
+    "pc": "031C",
+    "instrucao": "8308",
+    "acumulador": "2033"
+  },
+  {
+    "pc": "031E",
+    "instrucao": "5342",
+    "acumulador": "0033"
+  },
+  {
+    "pc": "0320",
+    "instrucao": "9304",
+    "acumulador": "0033"
+  },
+  {
+    "pc": "0322",
+    "instrucao": "8310",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "0324",
+    "instrucao": "930A",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "0326",
+    "instrucao": "B300",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "0936",
+    "instrucao": "8304",
+    "acumulador": "0033"
+  },
+  {
+    "pc": "0938",
+    "instrucao": "990A",
+    "acumulador": "0033"
+  },
+  {
+    "pc": "093A",
+    "instrucao": "19D8",
+    "acumulador": "0033"
+  },
+  {
+    "pc": "093C",
+    "instrucao": "5E06",
+    "acumulador": "0029"
+  },
+  {
+    "pc": "093E",
+    "instrucao": "19D8",
+    "acumulador": "0029"
+  },
+  {
+    "pc": "0940",
+    "instrucao": "890A",
+    "acumulador": "0033"
+  },
+  {
+    "pc": "0942",
+    "instrucao": "5918",
+    "acumulador": "0013"
+  },
+  {
+    "pc": "0944",
+    "instrucao": "1972",
+    "acumulador": "0013"
+  },
+  {
+    "pc": "0946",
+    "instrucao": "890A",
+    "acumulador": "0033"
+  },
+  {
+    "pc": "0948",
+    "instrucao": "591A",
+    "acumulador": "002A"
+  },
+  {
+    "pc": "094A",
+    "instrucao": "1972",
+    "acumulador": "002A"
+  },
+  {
+    "pc": "094C",
+    "instrucao": "890A",
+    "acumulador": "0033"
+  },
+  {
+    "pc": "094E",
+    "instrucao": "591C",
+    "acumulador": "0026"
+  },
+  {
+    "pc": "0950",
+    "instrucao": "1972",
+    "acumulador": "0026"
+  },
+  {
+    "pc": "0952",
+    "instrucao": "890A",
+    "acumulador": "0033"
+  },
+  {
+    "pc": "0954",
+    "instrucao": "5916",
+    "acumulador": "0003"
+  },
+  {
+    "pc": "0956",
+    "instrucao": "297A",
+    "acumulador": "0003"
+  },
+  {
+    "pc": "0958",
+    "instrucao": "5E06",
+    "acumulador": "FFF9"
+  },
+  {
+    "pc": "095A",
+    "instrucao": "295E",
+    "acumulador": "FFF9"
+  },
+  {
+    "pc": "095E",
+    "instrucao": "890A",
+    "acumulador": "0033"
+  },
+  {
+    "pc": "0960",
+    "instrucao": "5916",
+    "acumulador": "0003"
+  },
+  {
+    "pc": "0962",
+    "instrucao": "990E",
+    "acumulador": "0003"
+  },
+  {
+    "pc": "0964",
+    "instrucao": "890C",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "0966",
+    "instrucao": "6E06",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "0968",
+    "instrucao": "490E",
+    "acumulador": "0003"
+  },
+  {
+    "pc": "096A",
+    "instrucao": "990C",
+    "acumulador": "0003"
+  },
+  {
+    "pc": "096C",
+    "instrucao": "8E02",
+    "acumulador": "0001"
+  },
+  {
+    "pc": "096E",
+    "instrucao": "9910",
+    "acumulador": "0001"
+  },
+  {
+    "pc": "0970",
+    "instrucao": "0934",
+    "acumulador": "0001"
+  },
+  {
+    "pc": "0934",
+    "instrucao": "A300",
+    "acumulador": "0001"
+  },
+  {
+    "pc": "0302",
+    "instrucao": "0312",
+    "acumulador": "0001"
+  },
+  {
+    "pc": "0312",
+    "instrucao": "830A",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "0314",
+    "instrucao": "1328",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "0328",
+    "instrucao": "D300",
+    "acumulador": "202B"
+  },
+  {
+    "pc": "032A",
+    "instrucao": "9308",
+    "acumulador": "202B"
+  },
+  {
+    "pc": "032C",
+    "instrucao": "2332",
+    "acumulador": "202B"
+  },
+  {
+    "pc": "032E",
+    "instrucao": "730C",
+    "acumulador": "0020"
+  },
+  {
+    "pc": "0330",
+    "instrucao": "0338",
+    "acumulador": "0020"
+  },
+  {
+    "pc": "0338",
+    "instrucao": "9344",
+    "acumulador": "0020"
+  },
+  {
+    "pc": "033A",
+    "instrucao": "9304",
+    "acumulador": "0020"
+  },
+  {
+    "pc": "033C",
+    "instrucao": "830E",
+    "acumulador": "0001"
+  },
+  {
+    "pc": "033E",
+    "instrucao": "930A",
+    "acumulador": "0001"
+  },
+  {
+    "pc": "0340",
+    "instrucao": "B300",
+    "acumulador": "0001"
+  },
+  {
+    "pc": "0936",
+    "instrucao": "8304",
+    "acumulador": "0020"
+  },
+  {
+    "pc": "0938",
+    "instrucao": "990A",
+    "acumulador": "0020"
+  },
+  {
+    "pc": "093A",
+    "instrucao": "19D8",
+    "acumulador": "0020"
+  },
+  {
+    "pc": "093C",
+    "instrucao": "5E06",
+    "acumulador": "0016"
+  },
+  {
+    "pc": "093E",
+    "instrucao": "19D8",
+    "acumulador": "0016"
+  },
+  {
+    "pc": "0940",
+    "instrucao": "890A",
+    "acumulador": "0020"
+  },
+  {
+    "pc": "0942",
+    "instrucao": "5918",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "0944",
+    "instrucao": "1972",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "0972",
+    "instrucao": "A9FC",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "09FE",
+    "instrucao": "8910",
+    "acumulador": "0001"
+  },
+  {
+    "pc": "0A00",
+    "instrucao": "1A16",
+    "acumulador": "0001"
+  },
+  {
+    "pc": "0A02",
+    "instrucao": "890C",
+    "acumulador": "0003"
+  },
+  {
+    "pc": "0A04",
+    "instrucao": "9504",
+    "acumulador": "0003"
+  },
+  {
+    "pc": "0A06",
+    "instrucao": "A500",
+    "acumulador": "0003"
+  },
+  {
+    "pc": "0502",
+    "instrucao": "050A",
+    "acumulador": "0003"
+  },
+  {
+    "pc": "050A",
+    "instrucao": "8FFE",
+    "acumulador": "0FFC"
+  },
+  {
+    "pc": "050C",
+    "instrucao": "5E08",
+    "acumulador": "00FC"
+  },
+  {
+    "pc": "050E",
+    "instrucao": "1506",
+    "acumulador": "00FC"
+  },
+  {
+    "pc": "0510",
+    "instrucao": "8E00",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "0512",
+    "instrucao": "9508",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "0514",
+    "instrucao": "8FFE",
+    "acumulador": "0FFC"
+  },
+  {
+    "pc": "0516",
+    "instrucao": "5E04",
+    "acumulador": "0FFA"
+  },
+  {
+    "pc": "0518",
+    "instrucao": "9FFE",
+    "acumulador": "0FFA"
+  },
+  {
+    "pc": "051A",
+    "instrucao": "4E0C",
+    "acumulador": "9FFA"
+  },
+  {
+    "pc": "051C",
+    "instrucao": "9520",
+    "acumulador": "9FFA"
+  },
+  {
+    "pc": "051E",
+    "instrucao": "8504",
+    "acumulador": "0003"
+  },
+  {
+    "pc": "0520",
+    "instrucao": "9FFA",
+    "acumulador": "0003"
+  },
+  {
+    "pc": "0522",
+    "instrucao": "B500",
+    "acumulador": "0003"
+  },
+  {
+    "pc": "0A08",
+    "instrucao": "8508",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "0A0A",
+    "instrucao": "1A10",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "0A10",
+    "instrucao": "8E00",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "0A12",
+    "instrucao": "990C",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "0A14",
+    "instrucao": "9910",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "0A16",
+    "instrucao": "B9FC",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "0974",
+    "instrucao": "8908",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "0976",
+    "instrucao": "1934",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "0934",
+    "instrucao": "A300",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "0302",
+    "instrucao": "0312",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "0312",
+    "instrucao": "830A",
+    "acumulador": "0001"
+  },
+  {
+    "pc": "0314",
+    "instrucao": "1328",
+    "acumulador": "0001"
+  },
+  {
+    "pc": "0316",
+    "instrucao": "8344",
+    "acumulador": "0020"
+  },
+  {
+    "pc": "0318",
+    "instrucao": "630C",
+    "acumulador": "2000"
+  },
+  {
+    "pc": "031A",
+    "instrucao": "9342",
+    "acumulador": "2000"
+  },
+  {
+    "pc": "031C",
+    "instrucao": "8308",
+    "acumulador": "202B"
+  },
+  {
+    "pc": "031E",
+    "instrucao": "5342",
+    "acumulador": "002B"
+  },
+  {
+    "pc": "0320",
+    "instrucao": "9304",
+    "acumulador": "002B"
+  },
+  {
+    "pc": "0322",
+    "instrucao": "8310",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "0324",
+    "instrucao": "930A",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "0326",
+    "instrucao": "B300",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "0936",
+    "instrucao": "8304",
+    "acumulador": "002B"
+  },
+  {
+    "pc": "0938",
+    "instrucao": "990A",
+    "acumulador": "002B"
+  },
+  {
+    "pc": "093A",
+    "instrucao": "19D8",
+    "acumulador": "002B"
+  },
+  {
+    "pc": "093C",
+    "instrucao": "5E06",
+    "acumulador": "0021"
+  },
+  {
+    "pc": "093E",
+    "instrucao": "19D8",
+    "acumulador": "0021"
+  },
+  {
+    "pc": "0940",
+    "instrucao": "890A",
+    "acumulador": "002B"
+  },
+  {
+    "pc": "0942",
+    "instrucao": "5918",
+    "acumulador": "000B"
+  },
+  {
+    "pc": "0944",
+    "instrucao": "1972",
+    "acumulador": "000B"
+  },
+  {
+    "pc": "0946",
+    "instrucao": "890A",
+    "acumulador": "002B"
+  },
+  {
+    "pc": "0948",
+    "instrucao": "591A",
+    "acumulador": "0022"
+  },
+  {
+    "pc": "094A",
+    "instrucao": "1972",
+    "acumulador": "0022"
+  },
+  {
+    "pc": "094C",
+    "instrucao": "890A",
+    "acumulador": "002B"
+  },
+  {
+    "pc": "094E",
+    "instrucao": "591C",
+    "acumulador": "001E"
+  },
+  {
+    "pc": "0950",
+    "instrucao": "1972",
+    "acumulador": "001E"
+  },
+  {
+    "pc": "0952",
+    "instrucao": "890A",
+    "acumulador": "002B"
+  },
+  {
+    "pc": "0954",
+    "instrucao": "5916",
+    "acumulador": "FFFB"
+  },
+  {
+    "pc": "0956",
+    "instrucao": "297A",
+    "acumulador": "FFFB"
+  },
+  {
+    "pc": "097A",
+    "instrucao": "A9FC",
+    "acumulador": "FFFB"
+  },
+  {
+    "pc": "09FE",
+    "instrucao": "8910",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "0A00",
+    "instrucao": "1A16",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "0A16",
+    "instrucao": "B9FC",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "097C",
+    "instrucao": "8908",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "097E",
+    "instrucao": "1982",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "0982",
+    "instrucao": "A700",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "0702",
+    "instrucao": "070A",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "070A",
+    "instrucao": "8FFE",
+    "acumulador": "0FFA"
+  },
+  {
+    "pc": "070C",
+    "instrucao": "5E0A",
+    "acumulador": "FFFC"
+  },
+  {
+    "pc": "070E",
+    "instrucao": "1706",
+    "acumulador": "FFFC"
+  },
+  {
+    "pc": "0710",
+    "instrucao": "8E00",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "0712",
+    "instrucao": "9708",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "0714",
+    "instrucao": "8FFE",
+    "acumulador": "0FFA"
+  },
+  {
+    "pc": "0716",
+    "instrucao": "4E0E",
+    "acumulador": "8FFA"
+  },
+  {
+    "pc": "0718",
+    "instrucao": "971A",
+    "acumulador": "8FFA"
+  },
+  {
+    "pc": "071A",
+    "instrucao": "8FFA",
+    "acumulador": "0003"
+  },
+  {
+    "pc": "071C",
+    "instrucao": "9704",
+    "acumulador": "0003"
+  },
+  {
+    "pc": "071E",
+    "instrucao": "8FFE",
+    "acumulador": "0FFA"
+  },
+  {
+    "pc": "0720",
+    "instrucao": "4E04",
+    "acumulador": "0FFC"
+  },
+  {
+    "pc": "0722",
+    "instrucao": "9FFE",
+    "acumulador": "0FFC"
+  },
+  {
+    "pc": "0724",
+    "instrucao": "B700",
+    "acumulador": "0FFC"
+  },
+  {
+    "pc": "0984",
+    "instrucao": "8708",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "0986",
+    "instrucao": "198A",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "098A",
+    "instrucao": "8704",
+    "acumulador": "0003"
+  },
+  {
+    "pc": "098C",
+    "instrucao": "9912",
+    "acumulador": "0003"
+  },
+  {
+    "pc": "098E",
+    "instrucao": "A700",
+    "acumulador": "0003"
+  },
+  {
+    "pc": "0702",
+    "instrucao": "070A",
+    "acumulador": "0003"
+  },
+  {
+    "pc": "070A",
+    "instrucao": "8FFE",
+    "acumulador": "0FFC"
+  },
+  {
+    "pc": "070C",
+    "instrucao": "5E0A",
+    "acumulador": "FFFE"
+  },
+  {
+    "pc": "070E",
+    "instrucao": "1706",
+    "acumulador": "FFFE"
+  },
+  {
+    "pc": "0710",
+    "instrucao": "8E00",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "0712",
+    "instrucao": "9708",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "0714",
+    "instrucao": "8FFE",
+    "acumulador": "0FFC"
+  },
+  {
+    "pc": "0716",
+    "instrucao": "4E0E",
+    "acumulador": "8FFC"
+  },
+  {
+    "pc": "0718",
+    "instrucao": "971A",
+    "acumulador": "8FFC"
+  },
+  {
+    "pc": "071A",
+    "instrucao": "8FFC",
+    "acumulador": "000C"
+  },
+  {
+    "pc": "071C",
+    "instrucao": "9704",
+    "acumulador": "000C"
+  },
+  {
+    "pc": "071E",
+    "instrucao": "8FFE",
+    "acumulador": "0FFC"
+  },
+  {
+    "pc": "0720",
+    "instrucao": "4E04",
+    "acumulador": "0FFE"
+  },
+  {
+    "pc": "0722",
+    "instrucao": "9FFE",
+    "acumulador": "0FFE"
+  },
+  {
+    "pc": "0724",
+    "instrucao": "B700",
+    "acumulador": "0FFE"
+  },
+  {
+    "pc": "0990",
+    "instrucao": "8708",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "0992",
+    "instrucao": "1996",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "0996",
+    "instrucao": "8704",
+    "acumulador": "000C"
+  },
+  {
+    "pc": "0998",
+    "instrucao": "9914",
+    "acumulador": "000C"
+  },
+  {
+    "pc": "099A",
+    "instrucao": "890A",
+    "acumulador": "002B"
+  },
+  {
+    "pc": "099C",
+    "instrucao": "591E",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "099E",
+    "instrucao": "19B4",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "09B4",
+    "instrucao": "8914",
+    "acumulador": "000C"
+  },
+  {
+    "pc": "09B6",
+    "instrucao": "4912",
+    "acumulador": "000F"
+  },
+  {
+    "pc": "09B8",
+    "instrucao": "09CE",
+    "acumulador": "000F"
+  },
+  {
+    "pc": "09CE",
+    "instrucao": "9504",
+    "acumulador": "000F"
+  },
+  {
+    "pc": "09D0",
+    "instrucao": "A500",
+    "acumulador": "000F"
+  },
+  {
+    "pc": "0502",
+    "instrucao": "050A",
+    "acumulador": "000F"
+  },
+  {
+    "pc": "050A",
+    "instrucao": "8FFE",
+    "acumulador": "0FFE"
+  },
+  {
+    "pc": "050C",
+    "instrucao": "5E08",
+    "acumulador": "00FE"
+  },
+  {
+    "pc": "050E",
+    "instrucao": "1506",
+    "acumulador": "00FE"
+  },
+  {
+    "pc": "0510",
+    "instrucao": "8E00",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "0512",
+    "instrucao": "9508",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "0514",
+    "instrucao": "8FFE",
+    "acumulador": "0FFE"
+  },
+  {
+    "pc": "0516",
+    "instrucao": "5E04",
+    "acumulador": "0FFC"
+  },
+  {
+    "pc": "0518",
+    "instrucao": "9FFE",
+    "acumulador": "0FFC"
+  },
+  {
+    "pc": "051A",
+    "instrucao": "4E0C",
+    "acumulador": "9FFC"
+  },
+  {
+    "pc": "051C",
+    "instrucao": "9520",
+    "acumulador": "9FFC"
+  },
+  {
+    "pc": "051E",
+    "instrucao": "8504",
+    "acumulador": "000F"
+  },
+  {
+    "pc": "0520",
+    "instrucao": "9FFC",
+    "acumulador": "000F"
+  },
+  {
+    "pc": "0522",
+    "instrucao": "B500",
+    "acumulador": "000F"
+  },
+  {
+    "pc": "09D2",
+    "instrucao": "8508",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "09D4",
+    "instrucao": "1934",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "0934",
+    "instrucao": "A300",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "0302",
+    "instrucao": "0312",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "0312",
+    "instrucao": "830A",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "0314",
+    "instrucao": "1328",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "0328",
+    "instrucao": "D300",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "032A",
+    "instrucao": "9308",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "032C",
+    "instrucao": "2332",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "032E",
+    "instrucao": "730C",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "0330",
+    "instrucao": "0338",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "0338",
+    "instrucao": "9344",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "033A",
+    "instrucao": "9304",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "033C",
+    "instrucao": "830E",
+    "acumulador": "0001"
+  },
+  {
+    "pc": "033E",
+    "instrucao": "930A",
+    "acumulador": "0001"
+  },
+  {
+    "pc": "0340",
+    "instrucao": "B300",
+    "acumulador": "0001"
+  },
+  {
+    "pc": "0936",
+    "instrucao": "8304",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "0938",
+    "instrucao": "990A",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "093A",
+    "instrucao": "19D8",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "09D8",
+    "instrucao": "A9FC",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "09FE",
+    "instrucao": "8910",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "0A00",
+    "instrucao": "1A16",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "0A16",
+    "instrucao": "B9FC",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "09DA",
+    "instrucao": "8908",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "09DC",
+    "instrucao": "19E0",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "09E0",
+    "instrucao": "A700",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "0702",
+    "instrucao": "070A",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "070A",
+    "instrucao": "8FFE",
+    "acumulador": "0FFC"
+  },
+  {
+    "pc": "070C",
+    "instrucao": "5E0A",
+    "acumulador": "FFFE"
+  },
+  {
+    "pc": "070E",
+    "instrucao": "1706",
+    "acumulador": "FFFE"
+  },
+  {
+    "pc": "0710",
+    "instrucao": "8E00",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "0712",
+    "instrucao": "9708",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "0714",
+    "instrucao": "8FFE",
+    "acumulador": "0FFC"
+  },
+  {
+    "pc": "0716",
+    "instrucao": "4E0E",
+    "acumulador": "8FFC"
+  },
+  {
+    "pc": "0718",
+    "instrucao": "971A",
+    "acumulador": "8FFC"
+  },
+  {
+    "pc": "071A",
+    "instrucao": "8FFC",
+    "acumulador": "000F"
+  },
+  {
+    "pc": "071C",
+    "instrucao": "9704",
+    "acumulador": "000F"
+  },
+  {
+    "pc": "071E",
+    "instrucao": "8FFE",
+    "acumulador": "0FFC"
+  },
+  {
+    "pc": "0720",
+    "instrucao": "4E04",
+    "acumulador": "0FFE"
+  },
+  {
+    "pc": "0722",
+    "instrucao": "9FFE",
+    "acumulador": "0FFE"
+  },
+  {
+    "pc": "0724",
+    "instrucao": "B700",
+    "acumulador": "0FFE"
+  },
+  {
+    "pc": "09E2",
+    "instrucao": "8708",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "09E4",
+    "instrucao": "19E8",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "09E8",
+    "instrucao": "8704",
+    "acumulador": "000F"
+  },
+  {
+    "pc": "09EA",
+    "instrucao": "9904",
+    "acumulador": "000F"
+  },
+  {
+    "pc": "09EC",
+    "instrucao": "8FFE",
+    "acumulador": "0FFE"
+  },
+  {
+    "pc": "09EE",
+    "instrucao": "5E0A",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "09F0",
+    "instrucao": "19F4",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "09F4",
+    "instrucao": "B900",
+    "acumulador": "0000"
+  },
+  {
+    "pc": "0002",
+    "instrucao": "C000",
+    "acumulador": "0000"
+  }
+]
