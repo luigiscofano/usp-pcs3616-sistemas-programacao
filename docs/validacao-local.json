@@ -1,0 +1,6 @@
+{
+  "passou": true,
+  "comando": "python -m unittest discover -s tests -v",
+  "saida": "test_alinhamento (test_mvn.TestMvn.test_alinhamento) ... ok\ntest_bytes (test_mvn.TestMvn.test_bytes) ... ok\ntest_entradas (test_mvn.TestMvn.test_entradas) ... ok\ntest_exemplos (test_mvn.TestMvn.test_exemplos) ... ok\ntest_invalidos (test_mvn.TestMvn.test_invalidos) ... ok\ntest_operacoes_aleatorias (test_mvn.TestMvn.test_operacoes_aleatorias) ... ok\ntest_pilha_limites (test_mvn.TestMvn.test_pilha_limites) ... ok\ntest_timeout (test_mvn.TestMvn.test_timeout) ... ok\ntest_todos_bytes (test_mvn.TestMvn.test_todos_bytes) ... ok\n\n----------------------------------------------------------------------\nRan 9 tests in 0.393s\n\nOK\n",
+  "data_usuario": "2026-10-31"
+}
