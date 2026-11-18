@@ -14,9 +14,20 @@ Monta e executa rotinas Assembly para uma Máquina de Von Neumann didática. A d
 
 ## Qual problema resolve
 
+<details>
+<summary>Expandir qual problema resolve</summary>
+
 Em notação pós-fixa, o operador vem depois dos operandos. Uma pilha permite processar a expressão sem parênteses: empilha 12, empilha 3 e, ao ler `+`, desempilha os dois e empilha 15. O projeto torna visíveis os mecanismos que uma linguagem de alto nível costuma esconder: leitura de bytes, endereços, chamadas de subrotina, pilha e aritmética de tamanho fixo.
 
+
+</details>
+
+---
+
 ## Funcionalidades e módulos
+
+<details>
+<summary>Expandir funcionalidades e módulos</summary>
 
 As partes abaixo formam um caminho integrado. Leitor, pilha e montador podem ser estudados isoladamente, mas não representam aplicativos finais independentes.
 
@@ -47,7 +58,15 @@ A aritmética é **modular de 16 bits**: `32767 1 +` resulta −32768. A divisã
 
 O montador de duas passagens entende origem, constantes, rótulos e instruções do subconjunto fornecido. O executor registra o caminho real de instruções e impõe orçamento de até 200.000 instruções por chamada. Ele não implementa todo o ecossistema, linker ou dispositivos da MVN oficial.
 
+
+</details>
+
+---
+
 ## Como executar
+
+<details>
+<summary>Expandir como executar</summary>
 
 **Requisitos:** Python 3.12 e Git. O executor e os testes usam a biblioteca padrão; não há pacote externo para instalar. Não é necessário instalar um simulador MVN separado para a demonstração incluída.
 
@@ -75,13 +94,29 @@ O primeiro mostra o wrap de 16 bits. O segundo termina com status não zero e c�
 
 Para mudar as rotinas, edite os fontes em `asm/`, execute novamente a suíte e inspecione o trace. O [mapa de memória e ABI](docs/ARQUITETURA.md) informa os endereços compartilhados antes de qualquer alteração.
 
+
+</details>
+
+---
+
 ## O que desenvolvi e aprendi
+
+<details>
+<summary>Expandir o que desenvolvi e aprendi</summary>
 
 As rotinas e o ambiente desta edição exercitam representação binária, endianidade, chamadas SC/RS, pilha, código automodificável, montagem e tratamento de erro. As posições recuperadas de argumentos e resultados foram preservadas; extensões de status estão identificadas na [procedência](docs/PROCEDENCIA.md).
 
 **Objetivos pedagógicos:** extrair o byte 0x80 de uma palavra com sinal, explicar por que o 128º push falha e rastrear a ordem dos pops de uma subtração. [Atividades e rubrica](docs/OBJETIVOS_PEDAGOGICOS.md).
 
+
+</details>
+
+---
+
 ## Estado atual
+
+<details>
+<summary>Expandir estado atual</summary>
 
 | Disponível | Limite / evolução |
 | --- | --- |
@@ -90,21 +125,58 @@ As rotinas e o ambiente desta edição exercitam representação binária, endia
 | Nove testes e CI multiplataforma | Sem todos os dispositivos, objetos relocáveis ou ligação externa |
 | Contratos e memória documentados | Novas rotinas exigem respeitar a ABI e as regiões reservadas |
 
+
+</details>
+
+---
+
 ## Validação e limites
+
+<details>
+<summary>Expandir validação e limites</summary>
 
 A suíte percorre os 256 bytes, limites da pilha, expressões de referência e 400 expressões aleatórias. Ela executa o Assembly montado, mas não prova comportamento em um simulador oficial diferente. Os comandos e a evidência estão em [VALIDACAO.md](docs/VALIDACAO.md).
 
+
+</details>
+
+---
+
 ## Documentação e navegação
+
+<details>
+<summary>Expandir documentação e navegação</summary>
 
 [Assembly](asm/README.md) · [Montador e máquina](mvn/README.md) · [Scripts](scripts/README.md) · [Testes](tests/README.md) · [Exemplos e trace](assets/README.md) · [Guias por assunto](docs/topicos/README.md) · [Documentação](docs/README.md) · [Branches](docs/BRANCHES.md) · [PRs](docs/PUBLICACAO.md)
 
 
+
+</details>
+
+---
+
 ## Autoria, referências e licença
+
+<details>
+<summary>Expandir autoria, referências e licença</summary>
 
 **Luigi Scofano de Araujo · Engenharia de Computação, Poli-USP · USP 13680334.** Fontes recuperados, componentes de terceiros e trabalhos em grupo mantêm os créditos indicados nos arquivos e na documentação.
 
 [Direitos e créditos](DIREITOS_E_CREDITOS.md) · [Procedência](docs/PROCEDENCIA.md) · [Como contribuir](CONTRIBUTING.md) · [Mudanças](CHANGELOG.md)
 
+
+</details>
+
+---
+
 ## Tópicos do repositório
 
+<details>
+<summary>Expandir tópicos do repositório</summary>
+
 `assembly` · `virtual-machine` · `assembler` · `stack-machine` · `reverse-polish-notation` · `python` · `computer-architecture` · `systems-programming` · `usp` · `educational`
+
+</details>
+
+---
+
